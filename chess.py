@@ -1,3 +1,5 @@
+#Faiq Imran
+
 def positions(arr, queen_postion,size, flag=0):
     if queen_postion[0]<0 or queen_postion[0]>=size or queen_postion[1]<0 or queen_postion[1]>=size:
         return 0
@@ -36,7 +38,6 @@ def positions(arr, queen_postion,size, flag=0):
 
     
         
-
 
 
 
